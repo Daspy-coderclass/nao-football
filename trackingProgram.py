@@ -1,9 +1,4 @@
 # -*- encoding: UTF-8 -*-
-
-"""
-This example shows how to use ALTracker with red ball.
-"""
-
 import math
 import time
 import argparse
