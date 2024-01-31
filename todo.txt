@@ -1,0 +1,7 @@
+-----Zoek-functie-----
+Schop-functie
+NAO vanaf een bepaalde afstand laten schoppen
+----Ervoor zorgen dat NAO er precies voor staat----
+
+Bovenste camera om doel te spotten,
+onderste camera voor de bal

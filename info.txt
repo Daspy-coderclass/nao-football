@@ -1,0 +1,5 @@
+Use these for pointing to naoQI:
+
+export PYTHONPATH=${PYTHONPATH}:/home/coderclass-admin/Documents/GitHub/amsu-nao/pynaoqi-python2.7-2.8.7.4-linux64-20210819_141148/lib/python2.7/site-packages
+
+export QI_SDK_PREFIX=/home/coderclass-admin/Documents/GitHub/amsu-nao/pynaoqi-python2.7-2.8.7.4-linux64-20210819_141148
