@@ -4,8 +4,8 @@ import time
 import argparse
 from naoqi import ALProxy
 
-IP = "192.168.5.29"  # Replace here with your NaoQi's IP address.
-PORT = 9559
+IP = "IP ADRESS"  # Replace here with your NaoQi's IP address.
+PORT = "PORT"
 
 print ("Connecting to", IP, "with port", PORT)
 memoryProxy = ALProxy("ALMemory", IP, PORT)
